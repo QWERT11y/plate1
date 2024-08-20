@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+*{
+    font-family: "Roboto Slab"
+}
+.h8{
+color: #ADA785 ;
+background: linear-gradient(63.68deg, #ADA785 0%, #D6D3C2 100%);
+
+}
